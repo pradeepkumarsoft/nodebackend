@@ -1,0 +1,15 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "Node project with mysql and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "author": "Pradeep singh",
+  "license": "ISC"
+}
